@@ -9,6 +9,7 @@
 ## Аналитика. 
 Приложение может использовать анонимные данные (модель телефона, версия ОС) для улучшения работы через сервисы:
  - AppMetrica (ООО «ЯНДЕКС»): для анализа ошибок и использования приложения. https://yandex.ru/legal/confidential/ru/
+ - Yandex Mobile Ads SDK (ООО «ЯНДЕКС»): для показа релевантной рекламы и анализа эффективности рекламных кампаний. https://yandex.ru/legal/confidential/ru/
  - MyTracker (ООО «ВК»): для анализа ошибок и использования приложения. https://tracker.my.com/ru/legal/privacy-policy
  - MyTarget / VK Реклама (ООО «ВК»): для показа персонализированной рекламы https://target.vk.ru/help/advertisers/privacy_policy/
    
